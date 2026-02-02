@@ -1,0 +1,14 @@
+# Ignorar pastas de compilação e metadados do Eclipse
+bin/
+.metadata/
+.settings/
+.recommenders/
+
+# Ignorar arquivos de configuração de projeto (opcional, mas recomendado para iniciantes)
+.project
+.classpath
+
+# Ignorar arquivos temporários do sistema
+*.log
+.DS_Store
+Thumbs.db
