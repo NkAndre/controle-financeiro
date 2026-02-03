@@ -4,9 +4,7 @@ bin/
 .settings/
 .recommenders/
 
-# Ignorar arquivos de configuração de projeto (opcional, mas recomendado para iniciantes)
-.project
-.classpath
+
 
 # Ignorar arquivos temporários do sistema
 *.log
