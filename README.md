@@ -22,32 +22,26 @@ Aplicação desktop desenvolvida em Java Swing para controle de despesas e recei
 - ## 📦 ESTRUTURA DO PROJETO
 src/
 ├── app
-│ └── Main.java
-│
+│ └── Main.java<br>
+|
 ├── dao
-│ ├── ConnectionFactory.java
-│ ├── LancamentoDao.java
-│ └── UsuarioDao.java
+
 │
+
 ├── model
-│ ├── Categoria.java
-│ ├── Lancamento.java
-│ ├── Sessao.java
-│ ├── TipoLancamento.java
-│ └── Usuario.java
-│
+
 ├── service
-│ ├── LancamentoService.java
-│ ├── LoginService.java
-│ └── UsuarioService.java
+
 │
 ├── view
 │ ├── dashboard
 │ │ └── DashboardView.java
 │ │
+
 │ ├── lancamento
 │ │ └── LancamentoView.java
 │ │
+
 │ └── login
 │ ├── CadastroUsuarioView.java
 │ └── LoginView.java
