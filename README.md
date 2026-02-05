@@ -1,4 +1,4 @@
-## CONTROLE FINANCEIRO – Java Swing + MySQL
+## CONTROLE FINANCEIRO 💵 – Java Swing + MySQL
 
 Aplicação desktop desenvolvida em Java Swing para controle de despesas e receitas, com autenticação de usuários e persistência de dados em banco MySQL.
 
@@ -70,7 +70,7 @@ String password = "";
 
 3- Faça login ou cadastre um usuário
 
-## 📸PREVIEW
+## 📸 PREVIEW
 
 Veja abaixo algumas telas do sistema:
 
@@ -83,6 +83,6 @@ Veja abaixo algumas telas do sistema:
 
 ## Projeto pessoal com foco em lógica, Poo & integraçao com banco de dados. 
 
-## André santos
+## André santos 👨🏽‍💻
 
 
