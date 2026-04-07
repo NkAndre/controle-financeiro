@@ -44,6 +44,7 @@ src/
 │ ├── lancamento
 
 │ │ └── LancamentoView.java
+
 │ │
 
 │ └── login
@@ -89,6 +90,6 @@ Veja abaixo algumas telas do sistema:
 
 ## Projeto pessoal com foco em lógica, Poo & integraçao com banco de dados. 
 
-## André santos 👨🏽‍💻
+## AUTOR : André santos 👨🏽‍💻
 
 
