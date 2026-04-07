@@ -34,16 +34,22 @@ src/
 
 │
 ├── view
+
 │ ├── dashboard
+
 │ │ └── DashboardView.java
+
 │ │
 
 │ ├── lancamento
+
 │ │ └── LancamentoView.java
 │ │
 
 │ └── login
+
 │ ├── CadastroUsuarioView.java
+
 │ └── LoginView.java
 
 
